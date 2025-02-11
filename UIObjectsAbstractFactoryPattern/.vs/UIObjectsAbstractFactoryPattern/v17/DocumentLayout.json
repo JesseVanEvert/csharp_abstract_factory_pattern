@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\factories\\macfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\factories\\macfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\factories\\iuifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\factories\\iuifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\components\\macbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\components\\macbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\components\\ibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\components\\ibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\factories\\windowsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\factories\\windowsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\components\\windowstextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\components\\windowstextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\components\\mactextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\components\\mactextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\components\\windowsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\components\\windowsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|c:\\code\\practice\\design patterns\\abstract pattern\\csharp_abstract_factory_pattern\\uiobjectsabstractfactorypattern\\uiobjectsabstractfactorypattern\\components\\itextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EABA3E3-5259-4565-9C5E-CF7FD5683059}|UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern.csproj|solutionrelative:uiobjectsabstractfactorypattern\\components\\itextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Application.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Application.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Application.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:12:56.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MacFactory.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Factories\\MacFactory.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Factories\\MacFactory.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Factories\\MacFactory.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Factories\\MacFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:07:33.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUIFactory.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Factories\\IUIFactory.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Factories\\IUIFactory.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Factories\\IUIFactory.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Factories\\IUIFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:04:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowsTextBox.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\WindowsTextBox.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Components\\WindowsTextBox.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\WindowsTextBox.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Components\\WindowsTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:47:55.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MacTextBox.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\MacTextBox.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Components\\MacTextBox.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\MacTextBox.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Components\\MacTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:47:09.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MacButton.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\MacButton.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Components\\MacButton.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\MacButton.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Components\\MacButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:45:17.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Program.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Program.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:40:10.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IButton.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\IButton.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Components\\IButton.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\IButton.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Components\\IButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:41:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowsFactory.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Factories\\WindowsFactory.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Factories\\WindowsFactory.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Factories\\WindowsFactory.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Factories\\WindowsFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:10:56.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowsButton.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\WindowsButton.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Components\\WindowsButton.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\WindowsButton.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Components\\WindowsButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:46:16.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITextBox.cs",
+              "DocumentMoniker": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\ITextBox.cs",
+              "RelativeDocumentMoniker": "UIObjectsAbstractFactoryPattern\\Components\\ITextBox.cs",
+              "ToolTip": "C:\\Code\\Practice\\Design patterns\\Abstract pattern\\csharp_abstract_factory_pattern\\UIObjectsAbstractFactoryPattern\\UIObjectsAbstractFactoryPattern\\Components\\ITextBox.cs",
+              "RelativeToolTip": "UIObjectsAbstractFactoryPattern\\Components\\ITextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:44:03.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
