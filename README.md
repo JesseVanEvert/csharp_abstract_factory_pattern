@@ -1,3 +1,5 @@
+*Check the wiki for more information*
+
 Assignment: Implementing the Abstract Factory Design Pattern in a Console Application (C#)
 
 Objective:
